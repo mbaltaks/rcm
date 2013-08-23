@@ -13,3 +13,4 @@ NEWS.md
 missing
 install-sh
 configure
+*.t.err
