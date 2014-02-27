@@ -35,6 +35,7 @@ Elsewhere:
 
 This uses the standard GNU autotools, so it's the normal dance:
 
+    ./autogen.sh && \
     ./configure && \
     make && \
     make install
